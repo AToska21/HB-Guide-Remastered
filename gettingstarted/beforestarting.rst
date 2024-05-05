@@ -39,7 +39,7 @@ The guide details usage of two exploits, with different implementations dependin
 fusee-gelee
 ^^^^^^^^^^^
 
-The primary exploit is fusee-gelee (sometimes also referred to as ShofEL2 or CVE-2018-6242, these are all the same exploit) which takes advantage of an oversight in the Nintendo Switch built-in recovery mode (referred to as RCM). **fusee-gelee is a tethered, non-persistent exploit**, meaning you require a secondary device (such as a PC or Android phone) to enable CFW on every reboot. This is unlike the untethered coldboot exploits available on other systems such as Boot9strap for 3DS and Henkaku Enso for Vita.
+The primary exploit is fusee-gelee (sometimes also referred to as ShofEL2 or CVE-2018-6242, these are all the same exploit) which takes advantage of an oversight in the Nintendo Switch built-in recovery mode (referred to as RCM). **fusee-gelee is a tethered, non-persistent exploit, unless you use AutoRCM**, meaning you require a secondary device (such as a PC or Android phone) to enable CFW on every reboot. This is unlike the untethered coldboot exploits available on other systems such as Boot9strap for 3DS and Henkaku Enso for Vita.
 
 The fusee-gelee exploit allows for a full system takeover; the exploit runs before even the normal bootloader code, meaning anything about the normal Switch operating system (named Horizon, or HOS) can be changed. The exploit also allows dumping of the bootloader and any console unique information.
 

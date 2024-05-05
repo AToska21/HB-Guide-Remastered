@@ -12,7 +12,7 @@ At this point, you've verified that you can exploit fusee-gelee to run CFW. You 
    If something goes wrong or you need help, check `troubleshooting </troubleshooting.html>`_.
    
 .. note:: 
-   This guide will assume you want to use `https://www.sdsetup.com <https://www.sdsetup.com>`_ to get your homebrew setup, and will guide you on doing so.
+   This guide will assume you want to use `SDSetup Remade <https://sd.perditum.com>`_ to get your homebrew setup, and will guide you on doing so.
 
 ........
    
@@ -21,7 +21,7 @@ Step 1: Downloading Software
 
 This guide will walk you through the process of using the website SDSetup to prepare your SD card. This website allows you to easily select which homebrew you want and will automatically prepare a ZIP file with the correct file structure for your SD card.
 
-1. Go to https://www.sdsetup.com
+1. Go to https://sd.perditum.com
 2. Select **Nintendo Switch** 
 3. Select the **"Recommended Defaults"** package
 

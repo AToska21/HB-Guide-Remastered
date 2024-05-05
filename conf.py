@@ -19,9 +19,9 @@ sys.path.insert(0, os.path.abspath('_extensions'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Homebrew Guide'
-copyright = '2019-2020, noahc3 and friends'
-author = 'noahc3 and friends'
+project = 'Homebrew Guide Remastered'
+copyright = '2019-2020, noahc3 and friends, 2020-2024, ssdrive'
+author = 'noahc3, friends and ssdrive'
 
 # The short X.Y version
 version = ''
