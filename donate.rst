@@ -31,6 +31,8 @@ Legacy: 17LYnMwmdVAZnCLZtGqZhSsN5kPnS5Zsp7
 
 **If you donate one time through Ko-fi or Bitcoin and would like access to donator exclusive channels, please contact noahc3#5728 on Discord with your Bitcoin/Ko-fi transaction ID or your PayPal email address.**
 
+**while i'm not noahc3, you should donate to him.**
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

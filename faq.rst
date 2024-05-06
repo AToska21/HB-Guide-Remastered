@@ -22,7 +22,7 @@ Likely ban, typically delayed:
 * Modding online games
 * Cheating in online games
 * Clearing system logs using homebrew
-* Using multiple NANDs online (sysMMC and emuMMC) without using a DNS like 90DNS or PegaScape on all or all but one of them.
+* Using multiple NANDs online (sysMMC and emuMMC) without using a DNS like PegaScape on all or all but one of them.
 
 Not a ban, so far:
 
@@ -42,7 +42,7 @@ Should I disable WiFi?
 
 This is an extreme that you don't necessarily need to take, though it will basically 100% guarantee you won't get banned (since you are basically banning yourself).
 
-Using 90DNS (163.172.141.219 or 207.246.121.77) or enabling GDPR protections is usually enough to keep from being banned as long as you don't care about NSP files.
+Do not use 90DNS on emuMMC. Always use Incognito on emuMMC. If you are using sysMMC, you can use 90DNS, but I recommend not using any bannable software on sysMMC.
 
 ........
 

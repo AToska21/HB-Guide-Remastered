@@ -11,6 +11,7 @@ Credits
 * CTCaer and naehrwert for Hekate
 * tomGER, NicholeMattera, jaki, friedkeenan, Shadow, shchmue, WerWolv and elise for the original foundation behind the SDSetup bundle.
 * ReiNX Team for ReiNX and the first sections of https://reinx.guide
+* ssdrive for continuing the guide
 
 
 
